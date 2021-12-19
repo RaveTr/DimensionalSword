@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+issueTrackerURL=""
+displayURL=""
+license="All Rights Reserved"
+
+[[mods]]
+modId="dimensionalswords"
+version="${file.jarVersion}"
+displayName="Dimensional Swords"
+description='''Ever wanted to go to the nether without the hassle of building a portal?'''
+itemIcon=""
+configBackground=""
+
+[[dependencies.dimensionalswords]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dimensionalswords]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
