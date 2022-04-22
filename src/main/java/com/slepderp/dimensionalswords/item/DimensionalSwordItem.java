@@ -51,13 +51,13 @@ public class DimensionalSwordItem extends SwordItem{
         return Item.random;
     }
     
-        @Override
+        @SuppressWarnings("removal")
+		@Override
     	public ActionResult<ItemStack> use(World world, PlayerEntity player, Hand hand) {
     	if(!world.isClientSide && player.getHealth() <= 4.0F) {
     		LivingEntity playa = (LivingEntity) player;
     		
-                @SuppressWarnings("deprecation")
-				Double rayLength = new Double(Common.dimensionalSwordAmountOfBlocksTeleportedOnUse.get());
+                Double rayLength = new Double(Common.dimensionalSwordAmountOfBlocksTeleportedOnUse.get());
                 Vector3d playerRotation = playa.getViewVector(0);
                 Vector3d rayPath = playerRotation.scale(rayLength);
                 Vector3d from = player.getEyePosition(0);
