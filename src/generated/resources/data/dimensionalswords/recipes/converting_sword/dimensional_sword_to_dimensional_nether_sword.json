@@ -1,0 +1,15 @@
+{
+  "type": "dimensionalswords:converting_sword",
+  "sword_ingredient": {
+    "item": "minecraft:diamond_sword"
+  },
+  "module_ingredient": {
+    "item": "minecraft:lava_bucket"
+  },
+  "block_ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "result": "dimensionalswords:dimensional_nether_sword",
+  "experience": 1,
+  "time_taken_for_conversion": 50
+}

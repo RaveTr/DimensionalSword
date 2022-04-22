@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "dimensionalswords:block/dimensional_sword_machine"
+    },
+    "facing=west": {
+      "model": "dimensionalswords:block/dimensional_sword_machine",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dimensionalswords:block/dimensional_sword_machine",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "dimensionalswords:block/dimensional_sword_machine",
+      "y": 270
+    }
+  }
+}

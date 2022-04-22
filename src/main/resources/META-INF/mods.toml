@@ -6,10 +6,11 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="dimensionalswords"
-version="${file.jarVersion}"
+version="1.0"
 displayName="Dimensional Swords"
 description='''Ever wanted to go to the nether without the hassle of building a portal?'''
-itemIcon=""
+itemIcon="dimensionalswords:dimensional_sword"
+logoFile="dimensional_swords_logo.png"
 configBackground=""
 
 [[dependencies.dimensionalswords]]

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "dimensionalswords:main_dimensional_advancement_logo"
+    },
+    "title": {
+      "translate": "advancements.dimensionalswords.scientifically_possible.title"
+    },
+    "description": {
+      "translate": "advancements.dimensionalswords.scientifically_possible.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "dimensionalswords:textures/gui/advancement_bg.png"
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "dimension": "minecraft:overworld"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "root"
+    ]
+  ]
+}

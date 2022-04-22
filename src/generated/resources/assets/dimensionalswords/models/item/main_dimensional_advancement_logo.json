@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dimensionalswords:item/main_dimensional_advancement_logo"
+  }
+}

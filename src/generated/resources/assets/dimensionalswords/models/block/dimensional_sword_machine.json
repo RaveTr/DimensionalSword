@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "side": "minecraft:block/iron_block",
+    "front": "dimensionalswords:block/dimensional_sword_machine_front",
+    "bottom": "minecraft:block/iron_block",
+    "top": "dimensionalswords:block/dimensional_sword_machine_top"
+  }
+}

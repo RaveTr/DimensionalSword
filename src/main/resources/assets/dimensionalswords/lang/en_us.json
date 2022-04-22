@@ -1,0 +1,22 @@
+{
+"tooltip.dimensionalswords.default":"Hold SHIFT or CTRL for description",
+"tooltip.dimensionalswords.dimensional_sword": "A mysterious sword that teleports your foes once you hit them, teleports you away when you are in grave danger, and can seemingly be converted into more interesting... swords",
+"tooltip.dimensionalswords.dimensional_nether_sword": "A fiery version of the dimensional sword, giving you the ability to teleport to the nether, and burn your opponents. If your opponent is fire resistant, you will be granted 3 seconds of fire resistance per hit",
+
+"advancements.dimensionalswords.scientifically_possible.title": "Dimensional Swords",
+"advancements.dimensionalswords.scientifically_possible.description": "Soon to be discovered are the mysterious, somewhat corruptively powerful swords..",
+"advancements.dimensionalswords.first_of_many.title": "First of Many...",
+"advancements.dimensionalswords.first_of_many.description": "Acquire your first Dimensional Sword",
+
+"itemGroup.dim_swords_group": "Dimensional Swords",
+
+"container.dimensionalswords.dimensional_sword_machine": "Dimensional Sword Machine",
+
+"block.dimensionalswords.dimensional_sword_machine": "Dimensional Sword Machine",
+
+"item.dimensionalswords.main_dimensional_advancement_logo": "Logo",
+
+"item.dimensionalswords.dimensional_sword": "Dimensional Sword",
+"item.dimensionalswords.dimensional_nether_sword": "Dimensional Nether Sword"
+
+}
